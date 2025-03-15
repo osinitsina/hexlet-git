@@ -1,1 +1,2 @@
 Hello, Curry!
+Hello!
